@@ -1,0 +1,6 @@
+---
+# handlers file for graylog
+- name: Restart Graylog
+  service:
+    name: graylog-server
+    state: restarted

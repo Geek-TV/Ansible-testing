@@ -1,0 +1,8 @@
+---
+# defaults file for graylog
+graylog_all_in_one: false
+graylog_version: 3.1
+graylog_package_name: graylog
+graylog_service: graylog-server
+
+owner: ipswitch
